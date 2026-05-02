@@ -21,8 +21,7 @@ Aplicación de gestión de propiedades orientada a villas, que permite:
 - Sistema de mantenimiento  
 - Operaciones CRUD conectadas a base de datos  
 
-Repositorio:  
-https://github.com/jroval/robles_inter_aa_property_services
+Repositorio:  https://github.com/jroval/robles_inter_aa_property_services
 
 ## Objetivo
 
