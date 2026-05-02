@@ -1,24 +1,18 @@
-# 👋 Hola, soy Jaime Robles
+# Jaime Robles
 
-🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW)  
-💻 Enfocado en desarrollo backend y aplicaciones reales  
-🚀 Actualmente trabajando en un proyecto completo de gestión de propiedades  
+Estudiante de Desarrollo de Aplicaciones Web (DAW) enfocado en backend y en el desarrollo de aplicaciones orientadas a negocio.
 
----
+## Tecnologías
 
-## 🧠 Tecnologías
+Java  
+MySQL  
+JDBC  
+HTML y CSS  
+Git y GitHub  
 
-- Java
-- MySQL
-- JDBC
-- HTML & CSS
-- Git & GitHub
+## Proyecto destacado
 
----
-
-## 📌 Proyecto destacado
-
-### 🏠 AA Property Services
+AA Property Services
 
 Aplicación de gestión de propiedades orientada a villas, que permite:
 
@@ -27,11 +21,9 @@ Aplicación de gestión de propiedades orientada a villas, que permite:
 - Sistema de mantenimiento  
 - Operaciones CRUD conectadas a base de datos  
 
-🔗 Repo:  
+Repositorio:  
 https://github.com/jroval/robles_inter_aa_property_services
 
----
+## Objetivo
 
-## 📈 Objetivo
-
-Seguir evolucionando como desarrollador backend, construyendo aplicaciones bien estructuradas, escalables y orientadas a entornos reales.
+Desarrollarme como programador backend, creando aplicaciones bien estructuradas, mantenibles y orientadas a entornos reales.
